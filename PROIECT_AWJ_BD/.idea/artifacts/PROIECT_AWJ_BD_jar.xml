@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PROIECT_AWJ_BD:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PROIECT_AWJ_BD_jar</output-path>
+    <root id="archive" name="PROIECT_AWJ_BD.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src2/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="PROIECT_AWJ_BD" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/sqljdbc_6.0/enu/sqljdbc42.jar" path-in-jar="/" />
+      <element id="library" level="project" name="sqljdbc42" />
+    </root>
+  </artifact>
+</component>
