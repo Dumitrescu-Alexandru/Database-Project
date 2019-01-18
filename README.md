@@ -1,5 +1,5 @@
 # Database-Project
-# School Project
+
 SQL project with Java implementation for both connection to the Database and the graphical interface.
 
 designed and created a database which had 5 tables, two of them having m-m connections (this added 2 additional auxiliary tables). I made a graphical interface in Java, using Java Fx and JDBC, in which i had:
